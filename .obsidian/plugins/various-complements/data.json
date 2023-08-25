@@ -1,0 +1,99 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "group": {
+      "group": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1689865481366
+        }
+      }
+    },
+    "CAP理论": {
+      "CAP理论": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1689865631281
+        }
+      }
+    },
+    "启动：java": {
+      "启动：java": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1689949975874
+        }
+      }
+    },
+    "熔断和降级": {
+      "熔断和降级": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690030658107
+        }
+      }
+    },
+    "Sentinel": {
+      "Sentinel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1690030925379
+        }
+      }
+    },
+    "大模型的能力提升（现状是：缺少上下文关联场景（竞赛等）应用好）": {
+      "大模型的能力提升（现状是：缺少上下文关联场景（竞赛等）应用好）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1692449486213
+        }
+      }
+    }
+  }
+}

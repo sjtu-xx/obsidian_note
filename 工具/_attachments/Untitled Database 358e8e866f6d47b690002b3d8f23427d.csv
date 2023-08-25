@@ -1,0 +1,7 @@
+﻿说明,操作模块
+开始,start
+结束,end
+普通操作块,operation
+判断块,condition
+子任务块,subroutine
+输入输出块,inputoutput

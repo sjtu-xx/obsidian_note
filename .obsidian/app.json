@@ -1,0 +1,21 @@
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "note",
+  "attachmentFolderPath": "./_attachments",
+  "strictLineBreaks": true,
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "promptDelete": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true
+}

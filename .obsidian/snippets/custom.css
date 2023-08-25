@@ -1,0 +1,8 @@
+
+.markdown-reading-view code[class*="language-"] {
+    overflow-x: scroll;
+    white-space: pre;
+}
+.cm-s-obsidian .HyperMD-codeblock{
+    white-space: normal;
+}

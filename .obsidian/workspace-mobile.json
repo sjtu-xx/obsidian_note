@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "11ae369626958fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "74e14ec52ad92859",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3631d1e7f48bdb34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习/动手学深度学习/概念.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31e4541b97cce163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机基础/数据库/Mysql/基础/变量、流程控制与游标.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c08176921588eb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语言/Java/IDEA/IDEA使用/IDEA使用.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8004ed4eb09d30f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人工智能/Prompt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af556d2b887fb82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "框架_中间件/后端/SpringCloud/SpringCloud.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "653029dac9a9b08a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9995456d1ae5583d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b2d314e770bca2b6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "55d4e02364fd3004",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "202646247608609b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "b846f8ebd130d69e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "ef8c10ecc79c3222",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "272b4d097faa7e1a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "深度学习/动手学深度学习/概念.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "973e5baf56cad05f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "深度学习/动手学深度学习/概念.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "10b08756d6480329",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "深度学习/动手学深度学习/概念.md"
+          }
+        }
+      },
+      {
+        "id": "f2cf4dd92d7e4c19",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "3631d1e7f48bdb34",
+  "lastOpenFiles": [
+    "动手学深度学习/动手学深度学习.md",
+    "动手学深度学习/概念.md",
+    "深度学习/动手学深度学习/_attachments/Pasted image 20230823213832.png",
+    "深度学习/动手学深度学习/_attachments",
+    "深度学习/动手学深度学习/动手学深度学习.md",
+    "深度学习/动手学深度学习/概念.md",
+    "深度学习/动手学深度学习",
+    "深度学习",
+    "动手学深度学习/_attachments/Pasted image 20230823213832.png",
+    "动手学深度学习/_attachments",
+    "动手学深度学习",
+    "框架_中间件/后端/SpringCloud/SpringCloud.md",
+    "语言/Java/命令参数.md",
+    "人工智能/Prompt.md",
+    "人工智能/_attachments/IMG_6661.png",
+    "人工智能/_attachments/IMG_6660.png",
+    "人工智能/_attachments/IMG_6654.png",
+    "人工智能/_attachments",
+    "语言/Java/IDEA/IDEA使用/Untitled.md",
+    "语言/Java/IDEA/IDEA使用/IDEA使用.md",
+    "人工智能/基础/数据挖掘/数据挖掘.md",
+    "数据结构/数据结构复习.md",
+    "计算机基础/数据库/Mysql/基础/postgresql.md",
+    "计算机基础/数据库/Mysql/基础/变量、流程控制与游标.md",
+    "语言/Python/框架/Django框架/Django框架.md",
+    "语言/C++/cmake/cmake基础（搬运）/cmake基础（搬运）.md",
+    "人工智能/目标检测/Faster-RCNN细节详解/Faster-RCNN细节详解.md",
+    "人工智能/基础/Embedding层/Embedding层.md",
+    "语言/C++/Effective-C-笔记/Effective-C-笔记.md",
+    "数据结构/_attachments/3fe1dd0f2cc23e88b0b86ce82efe1fbf.png",
+    "语言/Python/框架/pyqt5/pyqt5.md",
+    "工具/git命令.md",
+    "VSCODE插件开发/插件文档/VScode插件文档.md",
+    "语言/jQuery/jQuery.md",
+    "语言/Java/JavaSE笔记/JAVA-SE笔记5（Web）.md",
+    "计算机杂谈/overload、override和hide的区别.md",
+    "语言/Python/基础/excel文件读写/excel文件读写.md",
+    "语言/C++/C++Primer读书笔记/C-Primer读书笔记-第二部分：标准库/_attachments/7fe620743e3a3007924cc0712f91ce6c.png",
+    "语言/JavaScript/_attachments/c2d2a775db4b64c60f807c3185f5adeb.png",
+    "系统/Linux/_attachments/8f70f58ad057a40524bcb1f49b019e21.png",
+    "人工智能/基础/Focal-loss原理与实现/_attachments/36d6140907b2871bcbe58e766e99c304.png",
+    "计算机基础/数据库/Mysql/高级/_attachments/页结构.mmap",
+    "语言/Python/基础/python基础/_attachments/20161012023013850",
+    "语言/Python/基础/python基础/_attachments/20161012022913536",
+    "魔方/_attachments/Rubiks_Solution-Guide_3x3.pdf"
+  ]
+}

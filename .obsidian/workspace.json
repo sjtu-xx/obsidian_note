@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "d8a8509670004541",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c75c355b6c3189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8466454432329f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0747c0bb6740f7d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a26a9a86e76342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5da566b1821a5ff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be21afa696c94e38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pdf",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aec5822ef4969dba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9f410c9ea143633",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3aa56ef4fb88b0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "4113fa25b3c0a5ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c1ade0ddc1fdbd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f786da84384106a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f539130e01e5ea60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b51d387672c6841",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d685ac07b0ce6589",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templates:Insert template": false,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e8466454432329f7",
+  "lastOpenFiles": [
+    "语言/Java/Effective Java/Effective_Java中文版(原书第3版)_by_Joshua_Bloch_(z-lib.org).pdf",
+    "_attachment/Pasted image 20230505113538.png.md",
+    "Excalidraw/Drawing 2023-06-27 22.09.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-18 23.22.05.excalidraw.md",
+    "数据结构/魔方/一层一层的解决.md",
+    "数据结构/魔方/魔方还原算法.md",
+    "数据结构/魔方/在线.md",
+    "深度学习/动手学深度学习/概念.md",
+    "深度学习/动手学深度学习/动手学深度学习.md",
+    "深度学习",
+    "语言/TypeScript/TypeScript.md",
+    "语言/TypeScript/note.md",
+    "深度学习/动手学深度学习/_attachments/Pasted image 20230823213832.png",
+    "深度学习/动手学深度学习/_attachments",
+    "人工智能/AIDD/AIDD.md",
+    "人工智能/AIDD/_attachments/Pasted image 20230819210112.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819210004.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819205842.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819205815.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819205753.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819205719.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819205618.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819205535.png",
+    "人工智能/AIDD/_attachments/Pasted image 20230819205505.png",
+    "人工智能/AIDD/_attachments",
+    "人工智能/AIDD",
+    "人工智能/Prompt.md",
+    "深度学习/动手学深度学习",
+    "框架_中间件/后端/SpringCloud/SpringCloud.md",
+    "工具/mac安装oh-my-zsh.md",
+    "工具/git不再使用密码进行认证.md",
+    "工具/github中的快速查找.md",
+    "工具/github-clone慢.md",
+    "工具/git命令.md",
+    "语言/C++/cmake/cmake官方教程（搬运）/cmake官方教程（搬运）.md",
+    "框架_中间件/后端/Spring/Bootstrap和application.md",
+    "语言/Java/命令参数.md",
+    "计算机基础/数据库/Es/ElasticSearch.md",
+    "计算机基础/数据库/Es",
+    "系统/Mac/brew.md",
+    "框架_中间件/后端/Spring/SpringBoot热部署.md",
+    "框架_中间件/后端/Spring/Spring Boot关键接口QPS与响应时间.md",
+    "框架_中间件/后端/SpringCloud/_attachments",
+    "框架_中间件/后端/SpringCloud",
+    "魔方/Untitled",
+    "数据结构/魔方/_attachments/Rubiks_Solution-Guide_3x3.pdf"
+  ]
+}
