@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "31c75c355b6c3189",
+        "id": "9e1a0dedb907f3e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e8466454432329f7",
+            "id": "4a4de0cc7f85cf6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "深度学习/Pytorch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "深度学习/Pytorch.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "深度学习/Pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "深度学习/Pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,14 +160,24 @@
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "templates:Insert template": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e8466454432329f7",
+  "active": "4a4de0cc7f85cf6f",
   "lastOpenFiles": [
+    "深度学习/CodeGeeX2实践.md",
+    "深度学习/Pytorch.md",
+    "深度学习/动手学深度学习/概念.md",
+    "深度学习/Untitled",
+    "深度学习/动手学深度学习/_attachments/Pasted image 20230817204605.png",
+    "深度学习/动手学深度学习/动手学深度学习.md",
+    "深度学习/动手学深度学习/_attachments/Pasted image 20230817204630.png",
+    "深度学习/动手学深度学习/_attachments/Pasted image 20230817204616.png",
+    "深度学习/动手学深度学习/_attachments/Pasted image 20230817204638.png",
+    "深度学习/动手学深度学习/Pasted image 20230817204630.png.md",
     "语言/Java/Effective Java/Effective_Java中文版(原书第3版)_by_Joshua_Bloch_(z-lib.org).pdf",
     "_attachment/Pasted image 20230505113538.png.md",
     "Excalidraw/Drawing 2023-06-27 22.09.28.excalidraw.md",
@@ -166,8 +185,6 @@
     "数据结构/魔方/一层一层的解决.md",
     "数据结构/魔方/魔方还原算法.md",
     "数据结构/魔方/在线.md",
-    "深度学习/动手学深度学习/概念.md",
-    "深度学习/动手学深度学习/动手学深度学习.md",
     "深度学习",
     "语言/TypeScript/TypeScript.md",
     "语言/TypeScript/note.md",
@@ -179,10 +196,6 @@
     "人工智能/AIDD/_attachments/Pasted image 20230819205842.png",
     "人工智能/AIDD/_attachments/Pasted image 20230819205815.png",
     "人工智能/AIDD/_attachments/Pasted image 20230819205753.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819205719.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819205618.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819205535.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819205505.png",
     "人工智能/AIDD/_attachments",
     "人工智能/AIDD",
     "人工智能/Prompt.md",
@@ -199,11 +212,7 @@
     "计算机基础/数据库/Es/ElasticSearch.md",
     "计算机基础/数据库/Es",
     "系统/Mac/brew.md",
-    "框架_中间件/后端/Spring/SpringBoot热部署.md",
-    "框架_中间件/后端/Spring/Spring Boot关键接口QPS与响应时间.md",
     "框架_中间件/后端/SpringCloud/_attachments",
-    "框架_中间件/后端/SpringCloud",
-    "魔方/Untitled",
-    "数据结构/魔方/_attachments/Rubiks_Solution-Guide_3x3.pdf"
+    "框架_中间件/后端/SpringCloud"
   ]
 }
