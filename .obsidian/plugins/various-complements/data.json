@@ -47,46 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "group": {
-      "group": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1689865481366
-        }
-      }
-    },
-    "CAP理论": {
-      "CAP理论": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1689865631281
-        }
-      }
-    },
-    "启动：java": {
-      "启动：java": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1689949975874
-        }
-      }
-    },
-    "熔断和降级": {
-      "熔断和降级": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1690030658107
-        }
-      }
-    },
-    "Sentinel": {
-      "Sentinel": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1690030925379
-        }
-      }
-    },
     "大模型的能力提升（现状是：缺少上下文关联场景（竞赛等）应用好）": {
       "大模型的能力提升（现状是：缺少上下文关联场景（竞赛等）应用好）": {
         "currentFile": {

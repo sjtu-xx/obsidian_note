@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/Pytorch.md",
+                "file": "深度学习/动手学深度学习/动手学深度学习.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/Pytorch.md"
+                "file": "深度学习/动手学深度学习/动手学深度学习.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/Pytorch.md",
+                "file": "深度学习/动手学深度学习/动手学深度学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/Pytorch.md",
+                "file": "深度学习/动手学深度学习/动手学深度学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,18 +162,19 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4a4de0cc7f85cf6f",
   "lastOpenFiles": [
-    "深度学习/CodeGeeX2实践.md",
+    "consistant-report.md",
+    "深度学习/动手学深度学习/动手学深度学习.md",
     "深度学习/Pytorch.md",
+    "深度学习/CodeGeeX2实践.md",
     "深度学习/动手学深度学习/概念.md",
     "深度学习/Untitled",
     "深度学习/动手学深度学习/_attachments/Pasted image 20230817204605.png",
-    "深度学习/动手学深度学习/动手学深度学习.md",
     "深度学习/动手学深度学习/_attachments/Pasted image 20230817204630.png",
     "深度学习/动手学深度学习/_attachments/Pasted image 20230817204616.png",
     "深度学习/动手学深度学习/_attachments/Pasted image 20230817204638.png",
@@ -211,7 +212,6 @@
     "语言/Java/命令参数.md",
     "计算机基础/数据库/Es/ElasticSearch.md",
     "计算机基础/数据库/Es",
-    "系统/Mac/brew.md",
     "框架_中间件/后端/SpringCloud/_attachments",
     "框架_中间件/后端/SpringCloud"
   ]
