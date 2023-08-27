@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/动手学深度学习/动手学深度学习.md",
+                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/动手学深度学习/动手学深度学习.md"
+                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md"
               }
             }
           },
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "4113fa25b3c0a5ec",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/动手学深度学习/动手学深度学习.md",
+                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/动手学深度学习/动手学深度学习.md",
+                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,28 +157,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4a4de0cc7f85cf6f",
   "lastOpenFiles": [
-    "consistant-report.md",
-    "深度学习/动手学深度学习/动手学深度学习.md",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827232727.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827230531.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827230340.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827225719.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827225558.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827225532.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827225446.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827221805.png",
+    "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827215211.png",
+    "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
+    "深度学习/李宏毅机器学习/_attachments",
+    "深度学习/李宏毅机器学习",
+    "深度学习/_attachments",
     "深度学习/Pytorch.md",
     "深度学习/CodeGeeX2实践.md",
+    "深度学习/动手学深度学习/动手学深度学习.md",
+    "consistant-report.md",
     "深度学习/动手学深度学习/概念.md",
-    "深度学习/Untitled",
     "深度学习/动手学深度学习/_attachments/Pasted image 20230817204605.png",
     "深度学习/动手学深度学习/_attachments/Pasted image 20230817204630.png",
-    "深度学习/动手学深度学习/_attachments/Pasted image 20230817204616.png",
-    "深度学习/动手学深度学习/_attachments/Pasted image 20230817204638.png",
     "深度学习/动手学深度学习/Pasted image 20230817204630.png.md",
     "语言/Java/Effective Java/Effective_Java中文版(原书第3版)_by_Joshua_Bloch_(z-lib.org).pdf",
     "_attachment/Pasted image 20230505113538.png.md",
@@ -189,14 +200,8 @@
     "深度学习",
     "语言/TypeScript/TypeScript.md",
     "语言/TypeScript/note.md",
-    "深度学习/动手学深度学习/_attachments/Pasted image 20230823213832.png",
     "深度学习/动手学深度学习/_attachments",
     "人工智能/AIDD/AIDD.md",
-    "人工智能/AIDD/_attachments/Pasted image 20230819210112.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819210004.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819205842.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819205815.png",
-    "人工智能/AIDD/_attachments/Pasted image 20230819205753.png",
     "人工智能/AIDD/_attachments",
     "人工智能/AIDD",
     "人工智能/Prompt.md",
@@ -209,10 +214,6 @@
     "工具/git命令.md",
     "语言/C++/cmake/cmake官方教程（搬运）/cmake官方教程（搬运）.md",
     "框架_中间件/后端/Spring/Bootstrap和application.md",
-    "语言/Java/命令参数.md",
-    "计算机基础/数据库/Es/ElasticSearch.md",
-    "计算机基础/数据库/Es",
-    "框架_中间件/后端/SpringCloud/_attachments",
-    "框架_中间件/后端/SpringCloud"
+    "计算机基础/数据库/Es"
   ]
 }
