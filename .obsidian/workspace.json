@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
+                "file": "框架_中间件/后端/SpringCloud/SpringCloud.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfb8dc82b81923f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md"
+                "file": "框架_中间件/后端/SpringCloud/SpringCloud.md"
               }
             }
           },
@@ -88,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "4113fa25b3c0a5ec",
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
+                "file": "框架_中间件/后端/SpringCloud/SpringCloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
+                "file": "框架_中间件/后端/SpringCloud/SpringCloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +177,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a4de0cc7f85cf6f",
+  "active": "dfb8dc82b81923f7",
   "lastOpenFiles": [
+    "SpringCloud.pdf",
+    "深度学习/gpt/Finetuning vs prompting.md",
+    "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
+    "深度学习/gpt/GPT4.md",
+    "深度学习/Pytorch.md",
+    "深度学习/gpt",
     "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827232727.png",
     "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827230531.png",
     "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827230340.png",
@@ -178,17 +194,14 @@
     "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827225446.png",
     "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827221805.png",
     "深度学习/李宏毅机器学习/_attachments/Pasted image 20230827215211.png",
-    "深度学习/李宏毅机器学习/李宏毅机器学习教程.md",
     "深度学习/李宏毅机器学习/_attachments",
     "深度学习/李宏毅机器学习",
     "深度学习/_attachments",
-    "深度学习/Pytorch.md",
     "深度学习/CodeGeeX2实践.md",
     "深度学习/动手学深度学习/动手学深度学习.md",
     "consistant-report.md",
     "深度学习/动手学深度学习/概念.md",
     "深度学习/动手学深度学习/_attachments/Pasted image 20230817204605.png",
-    "深度学习/动手学深度学习/_attachments/Pasted image 20230817204630.png",
     "深度学习/动手学深度学习/Pasted image 20230817204630.png.md",
     "语言/Java/Effective Java/Effective_Java中文版(原书第3版)_by_Joshua_Bloch_(z-lib.org).pdf",
     "_attachment/Pasted image 20230505113538.png.md",
@@ -211,9 +224,6 @@
     "工具/git不再使用密码进行认证.md",
     "工具/github中的快速查找.md",
     "工具/github-clone慢.md",
-    "工具/git命令.md",
-    "语言/C++/cmake/cmake官方教程（搬运）/cmake官方教程（搬运）.md",
-    "框架_中间件/后端/Spring/Bootstrap和application.md",
-    "计算机基础/数据库/Es"
+    "工具/git命令.md"
   ]
 }
