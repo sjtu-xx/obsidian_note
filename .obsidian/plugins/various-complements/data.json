@@ -47,11 +47,139 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
+<<<<<<< Updated upstream
     "大模型的能力提升（现状是：缺少上下文关联场景（竞赛等）应用好）": {
       "大模型的能力提升（现状是：缺少上下文关联场景（竞赛等）应用好）": {
         "currentFile": {
           "count": 1,
           "lastUpdated": 1692449486213
+=======
+    "数据结构复习": {
+      "数据结构复习": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1706799808949
+        }
+      }
+    },
+    "SSD目标检测": {
+      "SSD目标检测": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1706799952378
+        }
+      }
+    },
+    "存储性能优化": {
+      "存储性能优化": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706799954375
+        }
+      }
+    },
+    "网站可用性度量": {
+      "网站可用性度量": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706800762326
+        }
+      }
+    },
+    "高可用架构": {
+      "高可用架构": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706800848366
+        }
+      }
+    },
+    "数据层：数据冗余备份": {
+      "数据层：数据冗余备份": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706801797244
+        }
+      }
+    },
+    "应用服务器集群的Session管理": {
+      "应用服务器集群的Session管理": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706928283895
+        }
+      }
+    },
+    "Session复制（早期使用，目前服务器数量多，千万用户，不适用）": {
+      "Session复制（早期使用，目前服务器数量多，千万用户，不适用）": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1706928538309
+        }
+      }
+    },
+    "有状态服务器使用分布式缓存、数据库进行包装": {
+      "有状态服务器使用分布式缓存、数据库进行包装": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706928887185
+        }
+      }
+    },
+    "数据备份和失效转移机制": {
+      "数据备份和失效转移机制": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706950783067
+        }
+      }
+    },
+    "系统经过一个段时间的自我恢复和修正，数据最终一致。": {
+      "系统经过一个段时间的自我恢复和修正，数据最终一致。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706951504795
+        }
+      }
+    },
+    "冷备份-》难以保证数据一致性，恢复时无法保证可用性": {
+      "冷备份-》难以保证数据一致性，恢复时无法保证可用性": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706951771728
+        }
+      }
+    },
+    "热备份-〉异步热备份和同步热备份": {
+      "热备份-〉异步热备份和同步热备份": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706951783055
+        }
+      }
+    },
+    "数据链路层负载均衡（）": {
+      "数据链路层负载均衡（）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706961713334
+        }
+      }
+    },
+    "一般会进行分库和主从复制。如果单表很大，就要进行分表。": {
+      "一般会进行分库和主从复制。如果单表很大，就要进行分表。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1706963323616
+        }
+      }
+    },
+    "SQL经典案例（50题）": {
+      "SQL经典案例（50题）": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1706963543131
+>>>>>>> Stashed changes
         }
       }
     }
